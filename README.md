@@ -38,6 +38,3 @@ I’m passionate about building impactful software solutions, designing intuitiv
 
 ---
 
-## 📊 GitHub Stats  
-
-![Nivethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nive19s&show_icons=true&theme=tokyonight)
