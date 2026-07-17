@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nivethan
 
-🚀 **Full Stack Developer | Associate Software Engineer | CS Graduate @ UCSC**
+🚀 **Full Stack Developer | Software Engineer | CS Graduate @ UCSC**
 
 Computer Science graduate from the University of Colombo School of Computing with 6 months of industry experience at Boffo System Labs, working on a production-grade platform built with .NET Core, Angular, and Azure.
 
